@@ -1,6 +1,6 @@
-## **********************************************
-# Python programming Practice and Implementations
-## **********************************************
+## ****************************************************
+### Python programming Practice and Implementations
+## ****************************************************
 
 ### Repository for python programming practice and contains code for.
 #### Data Structures such as Stack,Queue,Priority Queues,Map,Binary Trees and Tic-TAC-TOE etc.,
