@@ -11,7 +11,7 @@ class Node:
         self.r=None
         self.v=val
 
-class BT:  
+class BinaryTree:  
     
     def __init__(self):
         self.root=None
@@ -87,7 +87,7 @@ class BT:
 
     
     
-bt=BT()
+bt=BinaryTree()
 bt.add(2)
 bt.add(3)
 bt.add(1)

@@ -2,14 +2,14 @@
 """
 Created on Mon Jun 05 11:07:09 2017
 
-@author: M179100
+@author: Jay
 """
 
 
 
 """ double linked list using sentinal nodes at the ends"""
 
-class doubleLL:
+class doubleLinkedList:
     
         """ Node class"""
         class _Node:
@@ -49,6 +49,6 @@ class doubleLL:
             n._prev=n._next=n._element=None
             return ele
         
-dll=doubleLL()
+dll=doubleLinkedList()
 dll.__len__()
 dll.__isEmpty__()
